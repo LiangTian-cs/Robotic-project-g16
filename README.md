@@ -24,7 +24,7 @@ Robotic-project-g16/
 │   ├── code/                     # Source code for Task 3
 │   └── videos/                   # Demonstration videos for Task 3
 │
-└── Task4-Comprehensive/          # Task 4: Comprehensive Multi-Sensor Task
+├── Task4-Comprehensive/          # Task 4: Comprehensive Multi-Sensor Task
 │   ├── code/                     # Source code for Task 4
 │   └── videos/                   # Demonstration videos for Task 4 
 └── README.md
