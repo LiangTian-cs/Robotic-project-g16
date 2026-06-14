@@ -1,6 +1,3 @@
-The code is shown below:
-
-```
 #include <Servo.h>
 
 int MotorLeft1 = 3;
@@ -317,4 +314,3 @@ void executeMotion() {
       break;
   }
 }
-```
