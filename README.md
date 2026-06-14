@@ -90,7 +90,7 @@ Task3-LineFollower/videos/
 Task4-Comprehensive/videos/
 ```
 
-If a video file is too large to be uploaded directly to GitHub, an external video link may be provided in the corresponding task folder.
+If a video file is too large an external video link may be provided in the corresponding task folder.
 
 ---
 
