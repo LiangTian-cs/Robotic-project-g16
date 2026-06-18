@@ -12,7 +12,7 @@ const int in3Pin = 4;
 const int in4Pin = 5;
 
 const int maxSpeed = 250;
-const int motorRunSpeed = 180;   // Motor speed after UP is detected
+const int motorRunSpeed = 180;   
 
 Adafruit_MPU6050 mpu;
 Adafruit_BME280 bme;
