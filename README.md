@@ -27,8 +27,8 @@ Robotic-project-g16/
 ├── Task4-Comprehensive/          # Task 4: Comprehensive Multi-Sensor Task
 │   ├── code/                     # Source code for Task 4
 │   └── videos/                   # Demonstration videos for Task 4 
-│── README.md
-└── Body structure files
+│── Body structure.md
+└── README.md
 ```
 
 ---
