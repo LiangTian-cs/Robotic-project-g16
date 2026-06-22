@@ -52,6 +52,14 @@ Robotic-project-g16/
 
 ---
 
+## Vehicle Appearance Design
+
+When the project was nearing completion, the World Cup was about to begin. One of our teammates was a passionate supporter of the French national team, so we used Blender to create a French-themed turtle-inspired concept design as a playful tribute to his favorite team.
+
+Based on this 3D concept model, we then fabricated the exterior body shell of our vehicle.
+
+---
+
 ## Usage Instructions
 
 ### 1. Clone the Repository
